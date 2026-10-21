@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, saya Nurhanis Fatehah 👋
 
-<!--
-**nrhs-Fatehah/nrhs-Fatehah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Tentang Saya
+Saya baru sahaja bermula dalam dunia pengaturcaraan dan GitHub! Saya sangat bersemangat untuk belajar perkara baharu.
 
-Here are some ideas to get you started:
+* 📚 Saya sedang belajar: **HTML, CSS, dan Git / GitHub**
+* 🎯 Matlamat saya: **Membina projek web pertama saya**
+* 💡 Minat: **Pembangunan Web / Teknologi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Kemahiran (Skills)
+* **Bahasa Pengaturcaraan:** HTML, CSS
+* **Alatan (Tools):** Git, GitHub, VS Code
+
+---
+
+## 📬 Hubungi Saya
+* **LinkedIn:** [Profil LinkedIn Saya](https://linkedin.com)
+* **Emel:** nurhanis.fatehah@example.com
