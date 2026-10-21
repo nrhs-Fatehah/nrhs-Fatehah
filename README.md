@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- CARA LETAK GAMBAR PROFIL: -->
+<!-- CARA LETAK GAMBAR PROFIL BULAT: -->
 <!-- Drag & drop gambar anda terus ke sini semasa di mod Edit di GitHub -->
-<!-- Atau tukar URL_GAMBAR_ANDA di bawah dengan pautan gambar anda -->
-<img src="URL_GAMBAR_ANDA" width="160" height="160" alt="Gambar Nurhanis Fatehah" style="border-radius: 50%; object-fit: cover;">
+<!-- Gantikan URL_GAMBAR_ANDA dengan pautan gambar yang dijana automatik -->
+<img src="URL_GAMBAR_ANDA" width="160" height="160" alt="Gambar Nurhanis Fatehah" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;">
 
 # Hi, saya Nurhanis Fatehah 👋
 
@@ -38,7 +38,7 @@
 ## 📊 Statistik GitHub Saya
 <div align="center">
 
-[![Nurhanis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nrhs-Fatehah&show_icons=true&theme=radial)](https://github.com/nrhs-Fatehah)
+[![Nurhanis's GitHub Stats](https://github-readme-stats-eight-now.vercel.app/api?username=nrhs-Fatehah&show_icons=true&theme=radial)](https://github.com/nrhs-Fatehah)
 
 </div>
 
