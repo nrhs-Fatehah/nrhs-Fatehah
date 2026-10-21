@@ -3,7 +3,7 @@
 <!-- CARA LETAK GAMBAR PROFIL: -->
 <!-- Drag & drop gambar anda terus ke sini semasa di mod Edit di GitHub -->
 <!-- Atau tukar URL_GAMBAR_ANDA di bawah dengan pautan gambar anda -->
-<img src="URL_GAMBAR_ANDA" width="150" alt="Gambar Nurhanis Fatehah" align="right" style="border-radius: 50%;">
+<img src="JYF26_Nurhanis Fatehah Bt Mohd Subri_Picture.jpeg" width="150" alt="Gambar Nurhanis Fatehah" align="right" style="border-radius: 50%;">
 
 ## 👩‍💻 Mengenai Saya
 - 🎓 Saya pelajar dalam bidang **Sains Komputer**.
