@@ -3,7 +3,7 @@
 <!-- CARA LETAK GAMBAR PROFIL BULAT: -->
 <!-- Drag & drop gambar anda terus ke sini semasa di mod Edit di GitHub -->
 <!-- Gantikan URL_GAMBAR_ANDA dengan pautan gambar yang dijana automatik -->
-<img src="URL_GAMBAR_ANDA" width="160" height="160" alt="Gambar Nurhanis Fatehah" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;">
+<img src="JYF26_Nurhanis Fatehah Bt Mohd Subri_Picture.jpeg" width="160" height="160" alt="Gambar Nurhanis Fatehah" style="border-radius: 50%; object-fit: cover; border: 3px solid #0077B5;">
 
 # Hi, saya Nurhanis Fatehah 👋
 
